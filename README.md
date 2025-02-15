@@ -74,11 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SazzzNiziyan/SazzzNiziyan/output/snake.svg" alt="Snake animation" />
 
 ###
 
