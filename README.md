@@ -5,7 +5,6 @@
 <h3 align="center">My name is  Sajal Singh and I'm a Software developer👨🏻‍💻 from Lucknow.</h3>
 
 <br>
-<br>
 
 ###
 
