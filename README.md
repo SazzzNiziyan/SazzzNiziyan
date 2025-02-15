@@ -16,6 +16,8 @@
 
 <h5 align="left">💻 Developer <br>🚀 Tech Enthusiast <br>🎨 Creative Thinker<br><br>I’m passionate about building and exploring technology—from full-stack web development to Generative AI and Web3. Currently, I’m sharpening my skills in HTML, CSS, JavaScript, and DSA, while working on exciting projects.<br><br>🔹 What I'm Working On:<br>🖥️ Developing web applications using HTML, CSS, JavaScript<br>📊 Exploring DSA & Web3 concepts<br>🤖 Experimenting with AI-generated content</h5>
 
+<br>
+
 ###
 
 <h2 align="left">I code with👩🏻‍💻</h2>
