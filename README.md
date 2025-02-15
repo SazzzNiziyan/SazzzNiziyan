@@ -88,6 +88,16 @@
 
 ###
 
+<h2 align="left">🌟 Featured Projects</h2>
+
+💻 Obys Agency Clone - Advanced frontend project using GSAP & ScrollTrigger<br>
+🌐 FYLLA-Design-Agency - A frontend project using SCSS<br>
+🧳 Travel Portfolio - Showcasing memorable travel experiences<br>
+
+###
+
+<br>
+
 <h2 align="left">Status For Nerds</h2>
 
 <div align="center">
