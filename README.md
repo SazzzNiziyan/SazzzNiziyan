@@ -44,6 +44,8 @@
 
 ###
 
+<br>
+
 <h2 align="left">Social Media to Connect with me😊</h2>
 
 ###
@@ -59,6 +61,8 @@
 *Libraries/Tools:*
 - GSAP | Locomotive Scroll | ScrollTrigger | Three.js | Textillate.js | jQuery
 - Photoshop | Lightroom | Figma
+
+  <br>
 
 <h2 align="left">Software I know</h2>
 
@@ -76,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
+<br>
+<br>
 
 ###
 
