@@ -113,7 +113,7 @@
 <br>
 
 <img align="left" height="58" width="78" src="https://github.com/user-attachments/assets/635ca1ca-3882-486f-bdba-d04691d694e3">
-<h2 align="left"> &nbsp; &nbsp; “Programming isn’t about what you know; it’s about what you can figure out.</h2>
+<h2 align="left"> &nbsp; &nbsp; “Programming isn’t about what you know; it’s about what you can figure out."</h2>
 
 <div align="center">
 <img src="https://github.com/ritesh5001/ritesh5001/blob/e1485ba0354a5b90ebba58dde50d9eddb471e1d4/git%20background%20footer.jpg">
