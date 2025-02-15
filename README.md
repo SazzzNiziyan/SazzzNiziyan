@@ -10,9 +10,7 @@
 
 ###
 
-<div align="center">
-  <img height="198" src="https://media.tenor.com/whgQwNlVvNkAAAAm/xero-code.webp"  />
-</div>
+<img align="left" height="198" src="https://media.tenor.com/whgQwNlVvNkAAAAm/xero-code.webp"  />
 
 ###
 
@@ -55,6 +53,10 @@
 </div>
 
 ###
+
+*Libraries/Tools:*
+- GSAP | Locomotive Scroll | ScrollTrigger | Three.js | Textillate.js | jQuery
+- Photoshop | Lightroom | Figma
 
 <h2 align="left">Software I know</h2>
 
