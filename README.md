@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">My name is  Sajal Singh and I'm a Software developer👨🏻‍💻 from Lucknow.</h3><br>
+<h3 align="center">I am Sajal Singh and I'm a Software developer👨🏻‍💻 from Lucknow.</h3><br>
 
 ###
 
