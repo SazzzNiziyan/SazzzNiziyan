@@ -1,10 +1,14 @@
-<img width="1000px" src="https://github.com/SazzzNiziyan/SazzzNiziyan/blob/fa3d2e399c0be5cf1a349cb1f5ed8e6e7a428511/Dark%20Elegant%20Minimalist%20Florist%20Brand%20Facebook%20Cover.png">
-
-<h1 align="center">Hey 👋  What's Up??</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
-<h3 align="center">I am Sajal Singh and I'm a Software developer👨🏻‍💻 from Lucknow.</h3><br>
+<h1 align="center">Hey 👋 What's up?</h1>
+
+###
+
+<h3 align="center">My name is  Sajal Singh and I'm a Software developer👨🏻‍💻 from Lucknow.</h3>
 
 ###
 
@@ -12,18 +16,15 @@
 
 ###
 
-<img align="left" height="198" src="https://media.tenor.com/whgQwNlVvNkAAAAm/xero-code.webp"  />
+<img align="right" height="220" src="https://media.tenor.com/whgQwNlVvNkAAAAm/xero-code.webp"  />
 
 ###
 
-
-<h5 align="left">💻 Developer <br>🚀 Tech Enthusiast <br>🎨 Creative Thinker<br>🎓 B.Tech in Computer Science at BBD NIIT, Lucknow <br><br>I’m passionate about building and exploring technology—from full-stack web development to Generative AI and Web3. Currently, I’m sharpening my skills in HTML, CSS, JavaScript, and DSA, while working on exciting projects.<br><br>🔹 What I'm Working On:<br>🖥️ Developing web applications using HTML, CSS, JavaScript<br>📊 Exploring DSA & Web3 concepts<br>🤖 Experimenting with AI-generated content</h5>
-
-<br>
+<h5 align="left">💻 Full-Stack Developer<br>🚀 Tech Enthusiast<br>🎨 Creative Coder<br><br>I’m passionate about crafting engaging digital experiences — from interactive web apps to creative animations. My core focus lies in full-stack development and continuously expanding my skill set across modern technologies.<br><br>🔹 What I'm Working On:<br>🖥️ Building web applications using MERN Stack (MongoDB, Express, React, Node.js) and Next.js<br>🎬 Exploring web animations and 3D elements with tools like Blender and animation libraries<br>📊 Strengthening my problem-solving through DSA practice<br>🤖 Learning the basics of AI/ML and how they integrate into modern web projects</h5>
 
 ###
 
-<h2 align="left">I code with👩🏻‍💻</h2>
+<h2 align="left">Codding 👩🏻‍💻</h2>
 
 ###
 
@@ -43,29 +44,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
-
-<br>
 
 <h2 align="left">Social Media to Connect with me😊</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="www.linkedin.com/in/sajal-singh-5a1041271" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/sazzz_niziyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/@sazzz__niziyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/as3199432@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
-
-*Libraries/Tools:*
-- GSAP | Locomotive Scroll | ScrollTrigger | Three.js | Textillate.js | jQuery
-- Photoshop | Lightroom | Figma
-
-  <br>
 
 <h2 align="left">Software I know</h2>
 
@@ -81,38 +109,50 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-<br>
-<br>
-
 ###
 
-<h2 align="left">🌟 Featured Projects</h2>
-
-💻 Obys Agency Clone - Advanced frontend project using GSAP & ScrollTrigger<br>
-🌐 FYLLA-Design-Agency - A frontend project using SCSS<br>
-🧳 Travel Portfolio - Showcasing memorable travel experiences<br>
-
-###
-
-<br>
-
-<h2 align="left">Status For Nerds</h2>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SazzzNiziyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SazzzNiziyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-
+  <img src="https://streak-stats.demolab.com?user=SazzzNiziyan&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SazzzNiziyan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SazzzNiziyan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<br>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SazzzNiziyan/SazzzNiziyan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SazzzNiziyan/SazzzNiziyan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SazzzNiziyan/SazzzNiziyan/output/pacman-contribution-graph.svg">
+</picture>
 
-<img align="left" height="58" width="78" src="https://github.com/user-attachments/assets/635ca1ca-3882-486f-bdba-d04691d694e3">
-<h2 align="left"> &nbsp; &nbsp; “Programming isn’t about what you know; it’s about what you can figure out."</h2>
+###
 
 <div align="center">
-<img src="https://github.com/ritesh5001/ritesh5001/blob/e1485ba0354a5b90ebba58dde50d9eddb471e1d4/git%20background%20footer.jpg">
+  <img src="https://count.getloli.com/@:SazzzNiziyan?theme=sketch-1&padding=7&offset=10&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
