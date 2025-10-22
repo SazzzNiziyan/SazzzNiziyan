@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Codding 👩🏻‍💻</h2>
+<h2 align="left">Coding Knowledge 👩🏻‍💻</h2>
 
 ###
 
