@@ -79,7 +79,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/sajal-singh-5a1041271" target="_blank">
+  <a href="https://www.linkedin.com/in/sajal-singh-5a1041271" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/sazzz_niziyan" target="_blank">
@@ -88,7 +88,7 @@
   <a href="https://discord.com/channels/@sazzz__niziyan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/as3199432@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=as3199432@gmail.com&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
