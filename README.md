@@ -18,7 +18,7 @@
 
 <img align="right" height="220" src="https://media.tenor.com/whgQwNlVvNkAAAAm/xero-code.webp"  />
 
-###
+### 
 
 <h5 align="left">💻 Full-Stack Developer<br>🚀 Tech Enthusiast<br>🎨 Creative Coder<br><br>I’m passionate about crafting engaging digital experiences — from interactive web apps to creative animations. My core focus lies in full-stack development and continuously expanding my skill set across modern technologies.<br><br>🔹 What I'm Working On:<br>🖥️ Building web applications using MERN Stack (MongoDB, Express, React, Node.js) and Next.js<br>🎬 Exploring web animations and 3D elements with tools like Blender and animation libraries<br>📊 Strengthening my problem-solving through DSA practice<br>🤖 Learning the basics of AI/ML and how they integrate into modern web projects</h5>
 
